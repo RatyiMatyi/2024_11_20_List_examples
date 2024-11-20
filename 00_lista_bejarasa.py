@@ -27,7 +27,3 @@ for honap in honapok:
     # 1. január
     # 2. február
 
-honap_index = 1
-for honap in honapok:
-    print(f"{honap_index} {honap}")
-    honap_index += 1
